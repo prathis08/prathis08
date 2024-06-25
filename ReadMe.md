@@ -12,7 +12,7 @@ Hi, I am Prathis Upadhyay.<br>A Full Stack Developer (Backend heavy). <br>Some t
 ![](https://github-readme-streak-stats.herokuapp.com/?user=prathis08&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=prathis08&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
-### ✍️ Random Dev Quote
+### ✍️ Random Motivation
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
